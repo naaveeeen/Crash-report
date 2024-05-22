@@ -1,4 +1,5 @@
 *Traffic Accident Analysis*
+
 Overview:
 This project aims to analyze traffic accident data to predict injuries using machine learning techniques. It involves preprocessing the data, building predictive models, and evaluating their performance. Additionally, the project includes exploratory data analysis (EDA) and visualization to uncover insights from the dataset.
 
